@@ -39,21 +39,7 @@ This is a simple implementation of the Tic-Tac-Toe game in Java. It allows two p
 - The program announces the result at the end.
 
 ## Contributing
-If you’d like to contribute to this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature-new-enhancement
-   ```
-3. Commit your changes:
-   ```sh
-   git commit -m "Add new feature"
-   ```
-4. Push the changes:
-   ```sh
-   git push origin feature-new-enhancement
-   ```
-5. Open a pull request.
+Contributions are welcome! Please create a pull request or open an issue for any changes or suggestions.
 
 
 ## Contact
