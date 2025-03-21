@@ -55,11 +55,9 @@ If you’d like to contribute to this project, follow these steps:
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ## Contact
-For any issues or suggestions, feel free to create an issue in the repository or contact the author.
+Email:raginishaw0607@gmail.com
 
 Enjoy playing Tic-Tac-Toe!
 
